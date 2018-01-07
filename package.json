@@ -1,8 +1,8 @@
 {
-  "title": "Agency",
-  "name": "startbootstrap-agency",
+  "title": "ChandraKellwan",
+  "name": "startbootstrap",
   "version": "4.0.0-beta.2",
-  "description": "Agency is for Bootstrap.",
+  "description": "Bootstrap.",
   "keywords": [
     "css",
     "sass",
@@ -14,12 +14,12 @@
   "homepage": "",
   "bugs": {
     "url": "",
-    "email": "feedback@startbootstrap.com"
+    "email": ""
   },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    ""
   ],
   "repository": {
     "type": "git",

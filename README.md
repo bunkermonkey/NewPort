@@ -2,4 +2,4 @@
 
 Portfolio Link: https://chandrakellwan.github.io/NewPort/
 
-![header-bg](https://user-images.githubusercontent.com/25890329/34752733-22a8e020-f582-11e7-96c3-372712b14aa1.jpg)
+![screen shot 2017-12-31 at 10 55 52 pm](https://user-images.githubusercontent.com/25890329/34752913-15e9a904-f583-11e7-9a4a-7bd3dc01c09e.png)
